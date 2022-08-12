@@ -1,5 +1,5 @@
-#Vihanraghuॐ
-#for @catuserbot
+"""Vihanraghuॐ
+for @catuserbot"""
 
 import random 
 import asyncio
