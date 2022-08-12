@@ -44,4 +44,3 @@ async def eli(event):
             if "{} won".format(full_name) in event.raw_text:
                 await event.client.send_message(Config.PRIVATE_GROUP_BOT_API_ID, f"**#Word_game** \n**Congo🎉** \nYou have won the game in {event.chat_id} \n**now gib party** :) \n**Made by** @Vihanraghu ")
               
-
